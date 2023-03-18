@@ -1,6 +1,10 @@
 # Iris Classification Project
 
-This project aims to classify Iris flowers into three different species (Iris Setosa, Iris Versicolor, and Iris Virginica) based on four features: sepal length, sepal width, petal length, and petal width.
+This project aims to classify Iris flowers into three different species (Iris Setosa, Iris Versicolor, and Iris Virginica) based on four features: 
+- sepal length
+- sepal width
+- petal length
+- petal width.
 
 ## Dataset
 
