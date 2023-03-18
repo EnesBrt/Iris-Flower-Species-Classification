@@ -4,7 +4,7 @@ This project aims to classify Iris flowers into three different species (Iris Se
 
 ## Dataset
 
-The dataset used in this project is the well-known [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris), which consists of 150 samples with 50 samples from each of the three species. Each sample has four features: sepal length, sepal width, petal length, and petal width, all measured in centimeters.
+The dataset used in this project is the well-known [Iris dataset](https://archive-beta.ics.uci.edu/dataset/53/iris), which consists of 150 samples with 50 samples from each of the three species. Each sample has four features: sepal length, sepal width, petal length, and petal width, all measured in centimeters.
 
 ## Dependencies
 
